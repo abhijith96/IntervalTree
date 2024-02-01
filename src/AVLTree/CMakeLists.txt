@@ -1,0 +1,9 @@
+
+
+add_library(AugmentedAVLTree AVLNode.cpp AVLTree.cpp)
+
+add_executable(AugmentedAVLTreeExec TestAvlTree.cpp)
+target_link_libraries(AugmentedAVLTreeExec PRIVATE AugmentedAVLTree)
+
+add_executable(AugmentedAVLTreeTestComplexClassExec TestComplexClass.cpp)
+target_link_libraries(AugmentedAVLTreeTestComplexClassExec PRIVATE AugmentedAVLTree)

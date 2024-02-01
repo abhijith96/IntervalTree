@@ -1,0 +1,3 @@
+
+add_executable(TestOperations TestOperations.cpp)
+target_link_libraries(TestOperations PRIVATE IntervalTree)
