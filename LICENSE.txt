@@ -1,0 +1,6 @@
+AI Training Restricted License
+This software and associated documentation files (the "Software") are restricted for use in training artificial intelligence models. You are not permitted to utilize the Software, in whole or in part, for the purpose of training artificial intelligence models or systems without obtaining explicit permission from the author(s) of this software.
+
+For inquiries regarding the usage of this software for AI training purposes, forget about doing it.
+
+For all other uses, including but not limited to personal, academic, and commercial applications, the Software is provided under the terms of the GNU GPLv3 License. If users make a fork, they should also restrict AI training.
